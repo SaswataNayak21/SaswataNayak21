@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**SaswataNayak21/SaswataNayak21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate blockchain developer from India
+🔭 I’m currently working on a "Decentralized Fiverr"
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Web3.js, Next.js, Solana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with Blockchain based projects
+
+📫 How to reach me s.samanta0411@gmail.com
+
+Connect with me:
+a_boy_called_suman suman-samanta-geek a_boy_called_suman _sumansamanta geekyprogrammer07
+
+Languages and Tools:
+aws c cplusplus java javascript mysql postgresql postman typescript
