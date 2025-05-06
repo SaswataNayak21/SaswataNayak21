@@ -4,7 +4,7 @@ I'm Saswata Kumar Nayak
 I'm an aspiring developer diving into the world of code 🌍. I love building simple apps and learning something new every day!
 
 - 🌱 Currently learning: Springboot , React
-- 💼 Interested in: Web Development , AI & Problem Solving 
+- 💼 Interested in: Web Development ,API-Integration , AI & Problem Solving 
 - ✨ Hobbies: Reading, Music, Gaming
 - 📫 Reach me: saswatnyk123@gmail.com 
 
