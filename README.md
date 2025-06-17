@@ -1,7 +1,5 @@
 ## 👋 Hello there, I'm Saswata Kumar Nayak
 
-I'm Saswata Kumar Nayak
-
 I'm an aspiring developer diving into the world of code 🌍. I love to desin & build apps and learn something new every day!
 
 ### 🚀 About Me
@@ -11,20 +9,13 @@ I'm an aspiring developer diving into the world of code 🌍. I love to desin & 
 - ✨ Hobbies: Reading 📚 | Music 🎧 | Gaming 🎮
 - 📫 How to reach me: **saswatnyk123@gmail.com**
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express.js, MySQL
 - Tools: Git & GitHub, VS Code
   
 ## 🌐 Socials:
-
-## 👋 Hello there, I'm Saswata Kumar Nayak
-
-I'm an aspiring developer passionate about turning ideas into functional and elegant applications. I enjoy learning new technologies and solving real-world problems through code.
-
-
-
-### 💻 Tech Stack
+    
 
 🧠 *"Stress doesn't come from working,
      It comes from not working." — Jeff Bezos*
